@@ -9,7 +9,6 @@
 <a href="https://linkedin.com/in/kaan-demirtaş-6b1891237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaan-demirtaş-6b1891237" height="30" width="40" /></a>
 <a href="https://fb.com/06brobaba290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="06brobaba290" height="30" width="40" /></a>
 <a href="https://instagram.com/kaanndemirtas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanndemirtas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucgb5jpd7easb1ldr-wzmpgq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgb5jpd7easb1ldr-wzmpgq" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Z9Ghhva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Z9Ghhva" height="30" width="40" /></a>
 </p>
 
